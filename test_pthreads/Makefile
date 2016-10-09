@@ -1,6 +1,6 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		test_pthreads.o
+OBJS =		forward_list.o test_pthreads.o
 
 LIBS =
 
